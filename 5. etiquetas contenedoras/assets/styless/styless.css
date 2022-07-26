@@ -1,0 +1,18 @@
+#container{
+    width: 6000px;
+    height: auto;
+}
+img{
+    width: 350px;
+    height: 350px;
+    border: 2px dotted blueviolet;
+    image-rendering: pixelated;
+    align-items: center;
+    margin-left: 500px;
+
+}
+ h3{
+text-align: center;
+margin: 30px;
+
+ }
